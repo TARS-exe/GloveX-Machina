@@ -1,2 +1,2 @@
-# GloveX-Machina
-GloveX Machina is an innovative robotic arm controlled by simple hand gestures. Using MPU sensors, the glove translates motion into precise movements, bridging the gap between human input and robotic precision. Perfect for tech enthusiasts and innovators exploring intuitive control systems.
+"GloveX Machina: The Future of Gesture-Controlled Robotics"
+Step into the future with GloveX Machina, a groundbreaking robotic arm that seamlessly responds to your every gesture. Powered by advanced MPU sensors, this project translates hand movements into precise robotic actions, offering effortless control through a glove interface. Whether you're building for automation, education, or innovation, GloveX Machina redefines human-machine interaction with the perfect blend of technology and intuition."
